@@ -21,4 +21,5 @@ for i in range(0,m):
        else:
          continue
        break
+   break
 print (checker)
